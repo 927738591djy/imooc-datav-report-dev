@@ -1,0 +1,9 @@
+/* 就不用给每个组件内的echarts单独设置宽高了 */
+.echarts{
+    width: 100%;
+    height: 100%;
+}
+.el-card__header{
+    border-bottom:none;
+    padding: 0;
+}
